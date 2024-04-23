@@ -1,0 +1,15 @@
+.wrapper{
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    
+}
+.min-max{
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+.min-max > span{
+    color:hsla(0, 8%, 50%, 0.844);
+}
